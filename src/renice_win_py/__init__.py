@@ -1,2 +1,1 @@
-def main() -> None:
-    print("Hello from renice-win-py!")
+"""Change the priority of Windows processes by name."""
